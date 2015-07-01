@@ -1,0 +1,11 @@
+C:\Users\Администратор\AppData\Local\Temporary Projects\Base\bin\Debug\Base.exe
+C:\Users\Администратор\AppData\Local\Temporary Projects\Base\bin\Debug\Base.pdb
+C:\Users\Администратор\AppData\Local\Temporary Projects\Base\obj\x86\Debug\Base.exe
+C:\Users\Администратор\AppData\Local\Temporary Projects\Base\obj\x86\Debug\Base.pdb
+D:\Work\С#\Base\Base\obj\x86\Debug\Base.exe
+D:\Work\С#\Base\Base\obj\x86\Debug\Base.pdb
+D:\Програмирование\C#WORK\2015\Projects\Base\Base\obj\x86\Debug\Base.exe
+D:\Програмирование\C#WORK\2015\Projects\Base\Base\obj\x86\Debug\Base.pdb
+D:\Програмирование\C#WORK\2015\Projects\Base\Base\bin\Debug\Base.exe
+D:\Програмирование\C#WORK\2015\Projects\Base\Base\bin\Debug\Base.pdb
+D:\Програмирование\C#WORK\2015\Projects\Base\Base\obj\x86\Debug\Base.csprojResolveAssemblyReference.cache
